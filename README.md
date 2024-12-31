@@ -1,16 +1,21 @@
-# column_widget_app
+# Flutter Column Widget App
 
-A new Flutter project.
+A Flutter app that demonstrates the use of the `Column` widget to arrange multiple elements vertically. The app includes text containers with custom styles and an image loaded from the assets.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **Column Layout**: Vertically arranges widgets with centered alignment.
+- **Text Containers**: Displays two text containers with purple backgrounds, white bold text, and custom padding/margin.
+- **Image Display**: Loads and displays an image from the app's assets.
+- **AppBar**: Displays a custom title at the top of the screen.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**  
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-column-widget-app.git
