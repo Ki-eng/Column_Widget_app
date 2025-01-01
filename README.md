@@ -1,7 +1,3 @@
-# Flutter Column Widget App
-
-A Flutter app that demonstrates the use of the `Column` widget to arrange multiple elements vertically. The app includes text containers with custom styles and an image loaded from the assets.
-
 ## 📋 Features
 
 - **Column Layout**: Vertically arranges widgets with centered alignment.
